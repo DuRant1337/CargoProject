@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Src/Src.iml" filepath="$PROJECT_DIR$/Src/Src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end/cli/cli.iml" filepath="$PROJECT_DIR$/end/cli/cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end/endBelegProg3/contract/contract.iml" filepath="$PROJECT_DIR$/end/endBelegProg3/contract/contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end/endBelegProg3/domainLogic/domainLogic.iml" filepath="$PROJECT_DIR$/end/endBelegProg3/domainLogic/domainLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/end (2).iml" filepath="$PROJECT_DIR$/.idea/end (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/end/eventSystem/eventSystem.iml" filepath="$PROJECT_DIR$/end/eventSystem/eventSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end/observerDesign/observerDesign.iml" filepath="$PROJECT_DIR$/end/observerDesign/observerDesign.iml" />
+    </modules>
+  </component>
+</project>
